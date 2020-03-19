@@ -1,12 +1,11 @@
 package InterviewPrep.Sorting;
 
-import java.util.*;
+import java.util.Arrays;
 
 /**
  * Find the number of notices that should be sent to a client regarding spending on a particular day.
  */
 public class FraudulentActivityNotifications {
-
 
     /**
      * Finds the number of notices by comparing a current days spending with a median of its trailing days spending.

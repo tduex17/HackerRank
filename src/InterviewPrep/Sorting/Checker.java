@@ -1,6 +1,6 @@
 package InterviewPrep.Sorting;
 
-import java.util.*;
+import java.util.Comparator;
 
 /**
  * A player of the game. Has a name and a score.

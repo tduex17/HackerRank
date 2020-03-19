@@ -1,6 +1,7 @@
 package InterviewPrep.DictionariesAndHashmaps;
 
-import java.util.*;
+import java.util.HashMap;
+import java.util.Map;
 
 /**
  * Determine if a specific ransom note can be made from an array of certain strings.

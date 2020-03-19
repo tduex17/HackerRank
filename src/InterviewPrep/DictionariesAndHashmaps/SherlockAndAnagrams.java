@@ -1,6 +1,7 @@
 package InterviewPrep.DictionariesAndHashmaps;
 
-import java.util.*;
+import java.util.ArrayList;
+import java.util.List;
 
 /**
  * Determine the number of substrings of a given string that are anagrams.
@@ -46,7 +47,7 @@ public class SherlockAndAnagrams {
 
     /**
      * Determines if two strings are anagrams.
-     * 
+     *
      * @param stringOne input string one
      * @param stringTwo input string two
      * @return a boolean representing if two string are anagrams

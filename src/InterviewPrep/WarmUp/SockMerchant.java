@@ -1,6 +1,7 @@
 package InterviewPrep.WarmUp;
 
-import java.util.*;
+import java.util.HashMap;
+import java.util.Map;
 
 /**
  * Finds number of pairs of socks given a pile of socks.

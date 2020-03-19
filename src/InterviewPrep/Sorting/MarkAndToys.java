@@ -1,6 +1,6 @@
 package InterviewPrep.Sorting;
 
-import java.util.*;
+import java.util.Arrays;
 
 /**
  * Finds maximum number of toys Mark can buy at set prices
